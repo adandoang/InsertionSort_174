@@ -20,4 +20,4 @@ void input() {
 		}
 	}
 }
-	
+cout << endl;
