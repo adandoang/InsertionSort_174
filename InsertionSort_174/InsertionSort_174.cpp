@@ -20,4 +20,7 @@ void input() {
 		}
 	}
 	cout << endl;
-	
+	cout << "====================" << endl;
+	cout << "masukan elemen array" << endl;
+	cout << "====================" << endl;
+}
